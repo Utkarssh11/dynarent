@@ -1,12 +1,8 @@
-# Vanlife - a van renting app 🚙
+# Dynarent - a van renting app 🚐
 
-Vanlife is a React application that serves as a van renting app. It utilizes React Router for smooth navigation and incorporates various features for an enhanced user experience. This app was developed as part of the learning process from the React Router course on [Scrimba](https://www.scrimba.com)
+Dynarent is a React application that serves as a van renting app. It utilizes React Router for smooth navigation and incorporates various features for an enhanced user experience. This app was developed as part of the learning process from the React Router course on [Scrimba](https://www.scrimba.com).
 
-## Demo 🚀
-
-**Live** : [Vanlife](https://vanlife-rent-a-van.netlify.app/)
-
-## Features 📋
+## Features ✨
 
 - Route navigation with React Router
 - Nested routes for shared UI components
@@ -17,9 +13,23 @@ Vanlife is a React application that serves as a van renting app. It utilizes Rea
 - Loader component for data fetching
 - Error handling with useRouteError
 
-## Tech Stack ⚙️
+## Technologies Used 🛠️
 
 - React
 - React Router
-- Tailwind css
-- Mirage js
+- Tailwind CSS
+- Mirage JS
+
+## Demo 🚀
+
+A live demo of the Dynarent app can be accessed at [Demo Link](https://dynarent-olive.vercel.app/).
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact 📧
+
+For any inquiries or suggestions, please contact us at [LinkedIn](https://www.linkedin.com/in/utkarsh-patidar-800081221/).
+
+Enjoy your van rental experience with Dynarent! 🚐
