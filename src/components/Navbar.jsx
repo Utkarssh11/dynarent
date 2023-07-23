@@ -1,6 +1,6 @@
 import { Link, NavLink, useNavigate } from "react-router-dom";
+import Logo from "../assets/Logo.svg";
 import loginIcon from "../assets/login.svg";
-import Logo from "../assets/logo.svg";
 import logoutIcon from "../assets/logout.png";
 
 const Navbar = () => {
