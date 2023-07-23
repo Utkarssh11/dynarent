@@ -24,9 +24,6 @@ Dynarent is a React application that serves as a van renting app. It utilizes Re
 
 A live demo of the Dynarent app can be accessed at [Demo Link](https://dynarent-olive.vercel.app/).
 
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📧
 
